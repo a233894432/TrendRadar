@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T03:04:20.072242+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-10-13T04:02:48.873656+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -28,11 +29,12 @@
             4,
             5,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -45,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -57,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
@@ -70,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
@@ -81,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "孙女：你有啥梦想？特朗普：我想当“伟大的总统”",
@@ -92,8 +94,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
@@ -104,8 +106,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "特朗普正满世界为美国寻找重稀土矿",
@@ -114,11 +116,12 @@
           "ranks": [
             23,
             20,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "美国副总统万斯：（当被问及美国总统特朗普是否考虑援引《叛乱法》时）总统正特朗普在考虑所有选项。",
@@ -129,8 +132,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         },
         {
           "title": "美国网友热议特朗普行为",
@@ -139,11 +142,12 @@
           "ranks": [
             23,
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时02分]"
         }
       ]
     },
@@ -156,11 +160,12 @@
           "url": "https://www.zhihu.com/question/1958158064793392803",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 04时02分]"
         }
       ]
     },
@@ -177,8 +182,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         }
       ]
     },
@@ -194,8 +199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时02分]"
         }
       ]
     }
