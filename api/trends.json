@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T08:46:03.258367+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2025-10-13T16:35:32.642383+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 50,
       "titles": [
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -143,6 +143,28 @@
           "time_info": "[00时03分 ~ 05时03分]"
         },
         {
+          "title": "美国总统特朗普：这是伟大的一天，这是全新的开始。",
+          "url": "https://flash.jin10.com/detail/20251013161654773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯将遵守解除武装计划。战争结束了。",
+          "url": "https://flash.jin10.com/detail/20251013161646636800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
           "url": "https://wallstreetcn.com/livenews/2986350",
           "source": "华尔街见闻-快讯",
@@ -152,6 +174,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "特朗普称可能供乌战斧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "自扇耳光?特朗普关税战求和中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "特朗普连说三遍战争结束了",
+          "url": "https://www.douyin.com/hot/2268110",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
+          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
@@ -260,6 +326,28 @@
           "time_info": "[06时04分 ~ 07时04分]"
         },
         {
+          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
+          "url": "https://www.cls.cn/detail/2166955",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：供应“战斧”导弹可能对所有人都会带来严重后果，而其中最严重的，将是美国总统特朗普本人。",
+          "url": "https://flash.jin10.com/detail/20251013161452130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
           "url": "https://flash.jin10.com/detail/20251013063154478800",
           "source": "金十数据",
@@ -313,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普进入以色列议会。",
+          "url": "https://flash.jin10.com/detail/20251013161006398800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "特朗普：不担心以色列在人质获释后重启战争。",
@@ -469,6 +568,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "美政府停摆近两周 特朗普趁机大裁员",
+          "url": "https://www.toutiao.com/trending/7560582028605787690/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普正前往以色列和埃及，签署结束加沙战争的和平协议。",
           "url": "https://flash.jin10.com/detail/20251013044739176800",
           "source": "金十数据",
@@ -483,7 +593,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -516,9 +626,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "TACO交易？美股纳指期货涨2%，数字货币大幅反弹，黄金续创新高，亚洲股市普跌",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美股期指集体反弹",
@@ -538,7 +659,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -552,12 +673,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2986638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美股盘前明星科技股普遍走高，AMD(AMD.O)涨超4%，阿斯麦(ASML.O)、英伟达(NVDA.O)、高通(QCOM.O)涨3.5%，英特尔(INTC.O)、甲骨文(ORCL.N)、特斯拉(TSLA.O)涨约2.5%。",
+          "url": "https://flash.jin10.com/detail/20251013160611212800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20251013160329025800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "以色列“无意再战”，伊朗：不信",
@@ -591,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗外长警告：以色列经常推翻达成的停火协议，不要轻易相信",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765028",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗过去一直、未来也将是本地区和平的重要力量。与以色列的种族灭绝政权不同，伊朗并不追求“永恒的战争”。",
@@ -629,8 +794,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价还能涨多高",
+          "url": "https://www.toutiao.com/trending/7560579461146480170/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
         {
           "title": "金价亚洲早盘上涨 货币贬值担忧成推手",
           "url": "https://flash.jin10.com/detail/20251013075228577800",
@@ -638,7 +814,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         },
@@ -649,7 +825,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         }
@@ -666,7 +842,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
         }
