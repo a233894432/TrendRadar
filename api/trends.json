@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T16:35:37.746025+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2025-11-06T03:21:22.514529+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,286 +8,281 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
-          "url": "https://flash.jin10.com/detail/20251105030659180800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
-          "url": "https://wallstreetcn.com/livenews/2999357",
+          "title": "特朗普继续攻击鲍威尔，称他是傻瓜",
+          "url": "https://wallstreetcn.com/livenews/3000066",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "03时21分"
         },
         {
-          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
-          "url": "https://flash.jin10.com/detail/20251105030214488800",
+          "title": "美国总统特朗普：将不会出席在南非举行的G20会议。",
+          "url": "https://flash.jin10.com/detail/20251106030531792800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国最高法院对特朗普关税官司听证会的要点总结",
+          "url": "https://wallstreetcn.com/livenews/3000063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席鲍威尔是傻瓜。",
+          "url": "https://flash.jin10.com/detail/20251106025957354800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
-          "url": "https://flash.jin10.com/detail/20251105024546546800",
+          "title": "美国总统特朗普：重申对鲍威尔的批评。预计2美元/加仑的汽油价格将回归。",
+          "url": "https://flash.jin10.com/detail/20251106025736560800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国总统特朗普：预计第三季度GDP增长4.2%或更高。",
+          "url": "https://flash.jin10.com/detail/20251106025235863800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
-          "url": "https://flash.jin10.com/detail/20251105024520582800",
+          "title": "据CNBC：特朗普对西屋电气核能领域的投资，可能会推动该公司上市，而美国政府将成为其股东。",
+          "url": "https://flash.jin10.com/detail/20251106025104417800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "白宫：特朗普正在密切关注尼日利亚。",
-          "url": "https://flash.jin10.com/detail/20251105024507839800",
-          "source": "金十数据",
+          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
+          "url": "https://www.cls.cn/detail/2192187",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
-          "url": "https://flash.jin10.com/detail/20251105024210324800",
-          "source": "金十数据",
+          "title": "美国总统特朗普考虑11月6日宣布减肥药意见。 他将与礼来制药、诺和诺德宣布降价。 在某些情况下，减肥药售价可能会低于150美元。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3000056",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
-          "url": "https://wallstreetcn.com/livenews/2999344",
+          "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
+          "url": "https://wallstreetcn.com/livenews/3000053",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "白宫降半旗悼念切尼 特朗普沉默",
-          "url": "https://www.toutiao.com/trending/7568870591252906035/",
-          "source": "今日头条",
+          "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
+          "url": "https://flash.jin10.com/detail/20251106020814036800",
+          "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
-          "url": "https://wallstreetcn.com/livenews/2999332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据CBS新闻：美国总统特朗普定于周四上午11点（北京时间周五00:00）就减肥药物发表声明。",
+          "url": "https://flash.jin10.com/detail/20251106020733024800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "纽约新市长为何成特朗普的“噩梦”",
+          "url": "https://www.toutiao.com/trending/7569209850954026547/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
           "url": "https://wallstreetcn.com/articles/3758628",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "03时21分"
         },
         {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美股散户“黑色星期二”有多惨",
-          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "title": "特朗普上任一年美股跑输全球大盘",
+          "url": "https://www.toutiao.com/trending/7569232858510790187/",
           "source": "今日头条",
           "ranks": [
-            17
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "03时21分"
         },
         {
-          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251105013105408800",
+          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251106014154445800",
           "source": "金十数据",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26pos%3D21%26cate%3D5001%26band_rank%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26flag%3D2%26realpos%3D21%26lcate%3D5001%26display_time%3D1762282609%26pre_seqid%3D176228260958003432385123&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美元走强金价又跌了",
-          "url": "https://www.douyin.com/hot/2295060",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20251106031453898800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
+          "url": "https://wallstreetcn.com/livenews/3000038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
+          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3000064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     }
