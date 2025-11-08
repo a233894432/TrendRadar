@@ -1,332 +1,116 @@
 {
-  "generated_at": "2025-11-08T16:29:13.037689+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-11-09T03:18:22.528514+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普痛骂佩洛西",
-          "url": "https://www.douyin.com/hot/2297374",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
-        },
-        {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
+          "url": "https://flash.jin10.com/detail/20251108220636044800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "03时18分"
         },
         {
-          "title": "特朗普真想对委内瑞拉开战吗？",
-          "url": "https://v.ifeng.com/c/8o61H5snkCE",
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
           "url": "https://wallstreetcn.com/articles/3758942",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普称希望继续在布达佩斯与普京会晤",
-          "url": "https://wallstreetcn.com/livenews/3001364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "03时18分"
         },
         {
-          "title": "美国财长贝森特：波音公司10月份向总统特朗普颁发年度销售员奖。 该公司CEO出现在总统办公室。",
-          "url": "https://wallstreetcn.com/livenews/3001358",
+          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
+          "url": "https://wallstreetcn.com/livenews/3001591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "03时18分"
         },
         {
-          "title": "美国总统特朗普：我完全支持人工智能。",
-          "url": "https://flash.jin10.com/detail/20251108022405006800",
-          "source": "金十数据",
+          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
+          "url": "https://wallstreetcn.com/articles/3758973",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "03时18分"
         },
         {
-          "title": "美国财长贝森特：波音公司上月授予特朗普年度最佳推销员奖。",
-          "url": "https://flash.jin10.com/detail/20251108022325665800",
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
-        },
+          "time_info": "03时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "特朗普：美国通胀处于完美水平",
-          "url": "https://wallstreetcn.com/livenews/3001354",
+          "title": "伊朗总统：“美国想让伊朗一直跪着”",
+          "url": "https://wallstreetcn.com/livenews/3001596",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "03时18分"
         },
         {
-          "title": "美国总统特朗普：不知道政府停摆会持续多久。",
-          "url": "https://flash.jin10.com/detail/20251108021803798800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：政府停摆持续多久取决于民主党。",
-          "url": "https://flash.jin10.com/detail/20251108021732972800",
-          "source": "金十数据",
+          "title": "伊朗总统：若持续无雨将撤离德黑兰",
+          "url": "https://www.toutiao.com/trending/7570196459908448302/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
-          "url": "https://flash.jin10.com/detail/20251108021224420800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
-          "url": "https://wallstreetcn.com/livenews/3001349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：通胀处于一个完美的水平。",
-          "url": "https://flash.jin10.com/detail/20251108021030096800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
-          "url": "https://wallstreetcn.com/livenews/3001347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
-          "url": "https://flash.jin10.com/detail/20251108020524732800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
-          "url": "https://flash.jin10.com/detail/20251108020350624800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国总统特朗普：与俄罗斯的根本分歧在于，他们不愿停止俄乌冲突。",
-          "url": "https://flash.jin10.com/detail/20251108015909151800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
-        },
-        {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 16时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
-        },
-        {
-          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
-          "url": "https://wallstreetcn.com/articles/3758965",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "time_info": "03时18分"
         }
       ]
     },
@@ -335,32 +119,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "形势危急！伊朗总统：可能从德黑兰撤离",
-          "url": "https://news.ifeng.com/c/8o6zKd55xJa",
-          "source": "凤凰网",
+          "title": "下周美国市场也不好过？美债发行潮来袭，流动性“雪上加霜”",
+          "url": "https://wallstreetcn.com/articles/3758965",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     }
