@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-11T03:20:19.412538+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-11T16:33:18.877916+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
           "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
+          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
@@ -76,37 +98,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价涨超2% 创本月最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "金价大涨但黄金首饰难卖了",
-          "url": "https://www.toutiao.com/trending/7571079598381731371/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
           "url": "https://wallstreetcn.com/articles/3759034",
@@ -133,8 +138,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗否认密谋暗杀以驻墨西哥大使",
+          "url": "https://news.ifeng.com/c/8oCBAFytiMm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
         {
           "title": "伊朗货币改革将启动：删除4个0",
           "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
@@ -152,6 +168,34 @@
           "source": "金十数据",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价涨超2% 创本月最大涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "金价大涨但黄金首饰难卖了",
+          "url": "https://www.toutiao.com/trending/7571079598381731371/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
