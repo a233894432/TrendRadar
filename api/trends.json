@@ -1,48 +1,48 @@
 {
-  "generated_at": "2025-11-18T16:33:10.871959+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-11-19T03:20:28.726962+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
         {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
+          "title": "特朗普：台湾生产了几乎100%的芯片",
+          "url": "https://www.toutiao.com/trending/7573879516414623771/",
+          "source": "今日头条",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
         {
-          "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
-          "url": "https://wallstreetcn.com/articles/3759513",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普会晤麦当劳高层 借力快餐业宣传“降成本”",
-          "url": "https://flash.jin10.com/detail/20251118022346362800",
+          "title": "特朗普：沙特将获得F-35战机 已就此达成协议",
+          "url": "https://flash.jin10.com/detail/20251119022122408800",
           "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
         {
-          "title": "美国总统特朗普将在会见麦当劳的控股方（所有人）、运营方、供应商时谈论经济形势，并兜售特朗普政府在压低生活成本方面所付出的努力。 美国民众对通胀压力的担忧情绪日益沉重。",
-          "url": "https://wallstreetcn.com/livenews/3006014",
+          "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
+          "url": "https://wallstreetcn.com/livenews/3006688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
+          "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
@@ -52,8 +52,19 @@
           "time_info": "03时20分"
         },
         {
-          "title": "特朗普表态支持俄罗斯制裁法案 参议院或很快进行投票",
-          "url": "https://flash.jin10.com/detail/20251118021849040800",
+          "title": "特朗普：我想我已经知道我的美联储主席人选了",
+          "url": "https://wallstreetcn.com/livenews/3006686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普结束在白宫的讲话。",
+          "url": "https://flash.jin10.com/detail/20251119021212716800",
           "source": "金十数据",
           "ranks": [
             11
@@ -63,8 +74,52 @@
           "time_info": "03时20分"
         },
         {
-          "title": "特朗普政府FEMA代理局长辞职 任职仅六个月",
-          "url": "https://flash.jin10.com/detail/20251118015327996800",
+          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
+          "url": "https://wallstreetcn.com/livenews/3006685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：我对普京感到有点惊讶。",
+          "url": "https://flash.jin10.com/detail/20251119020840985800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
+          "url": "https://flash.jin10.com/detail/20251119020557608800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3006680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：应吊销美国广播公司的执照。",
+          "url": "https://flash.jin10.com/detail/20251119020544165800",
           "source": "金十数据",
           "ranks": [
             15
@@ -74,8 +129,19 @@
           "time_info": "03时20分"
         },
         {
-          "title": "力拓对美铝材加收附加费 特朗普关税引发市场结构性破坏",
-          "url": "https://flash.jin10.com/detail/20251118014247009800",
+          "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
+          "url": "https://flash.jin10.com/detail/20251119020428074800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：愿意与马杜罗对话。",
+          "url": "https://flash.jin10.com/detail/20251119020345451800",
           "source": "金十数据",
           "ranks": [
             18
@@ -85,83 +151,55 @@
           "time_info": "03时20分"
         },
         {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
-          "url": "https://www.cls.cn/detail/2203264",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
-          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "title": "特朗普暗示美联储主席人选已定 抱怨解雇鲍威尔遭人阻拦",
+          "url": "https://flash.jin10.com/detail/20251119020232871800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "03时20分"
         },
         {
-          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251118013150496800",
-          "source": "金十数据",
+          "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
+          "url": "https://wallstreetcn.com/livenews/3006675",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
         {
-          "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251118013112350800",
+          "title": "美国总统特朗普：可以看到与沙特阿拉伯达成民用核协议。",
+          "url": "https://flash.jin10.com/detail/20251119015618344800",
           "source": "金十数据",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20251119015405489800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：沙特将购买F-35战机。",
+          "url": "https://flash.jin10.com/detail/20251119015008336800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -171,25 +209,75 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
+          "title": "谷歌正式发布Gemini3",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
         {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
+          "url": "https://wallstreetcn.com/livenews/3006669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2204220",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -206,67 +294,22 @@
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
-          "url": "https://flash.jin10.com/detail/20251118024957855800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
+          "title": "黄金价格下跌 国内投资者怎么办",
+          "url": "https://www.toutiao.com/trending/7574003822264061446/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY短线走低12点，现报99.40。",
-          "url": "https://flash.jin10.com/detail/20251118160821727800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "03时20分"
         }
       ]
     }
