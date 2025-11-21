@@ -1,298 +1,116 @@
 {
-  "generated_at": "2025-11-21T16:34:52.963441+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2025-11-22T03:21:08.284203+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美国白宫：特朗普经常与马克龙交谈。",
-          "url": "https://flash.jin10.com/detail/20251121025918794800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普重提：我对普京挺失望",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%EF%BC%9A%E6%88%91%E5%AF%B9%E6%99%AE%E4%BA%AC%E6%8C%BA%E5%A4%B1%E6%9C%9B",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普政府重组能源部 取消清洁能源办公室",
-          "url": "https://flash.jin10.com/detail/20251121025822476800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
-          "url": "https://wallstreetcn.com/livenews/3008137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
-          "url": "https://flash.jin10.com/detail/20251121025425743800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国白宫：特朗普无意“处决”国会议员。",
-          "url": "https://flash.jin10.com/detail/20251121024653045800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望“处决”国会山成员。",
-          "url": "https://wallstreetcn.com/livenews/3008134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普有意对贩毒集团采取进一步行动，国家安全团队正在讨论此类选项。",
-          "url": "https://flash.jin10.com/detail/20251121024517824800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
-          "url": "https://wallstreetcn.com/livenews/3008133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普政府宣布油气开发新动作 多州强烈反对",
-          "url": "https://wallstreetcn.com/livenews/3008527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
-          "url": "https://www.cls.cn/detail/2206823",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.toutiao.com/trending/7574979338739650091/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
           "url": "https://wallstreetcn.com/articles/3759847",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
           "url": "https://wallstreetcn.com/articles/3759840",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
           "url": "https://wallstreetcn.com/articles/3759849",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
+          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
+          "url": "https://www.cls.cn/detail/2207612",
+          "source": "财联社热门",
           "ranks": [
-            24
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
+        {
+          "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3008862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "特朗普",
       "match_count": 3,
       "titles": [
         {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
           "ranks": [
-            2
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20251122023534438800",
+          "source": "金十数据",
           "ranks": [
-            3
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
-          "title": "Gemini3",
-          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
+          "url": "https://flash.jin10.com/detail/20251122021918507800",
+          "source": "金十数据",
           "ranks": [
-            4
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -301,43 +119,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
-          "url": "https://wallstreetcn.com/articles/3759753",
+          "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
-          "url": "https://wallstreetcn.com/livenews/3008112",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
+          "url": "https://flash.jin10.com/detail/20251122020035429800",
+          "source": "金十数据",
           "ranks": [
-            30
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         }
       ]
     }
