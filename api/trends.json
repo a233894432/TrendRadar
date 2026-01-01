@@ -1,66 +1,83 @@
 {
-  "generated_at": "2026-01-01T16:35:51.784347+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-02T03:21:29.011295+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
+          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
+          "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2245895",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260101013121522800",
-          "source": "金十数据",
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260101013023765800",
+          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
+          "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
           "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
+          "url": "https://flash.jin10.com/detail/20260101230736481800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -69,71 +86,82 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
-          "url": "https://flash.jin10.com/detail/20260101024610835800",
-          "source": "金十数据",
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "特朗普称“凯旋门”将于两个月内开建",
-          "url": "https://flash.jin10.com/detail/20260101010133280800",
+          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260102011611465800",
           "source": "金十数据",
           "ranks": [
-            27
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         },
         {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
+          "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
+          "url": "https://wallstreetcn.com/livenews/3029639",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "03时21分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
+          "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
+          "url": "https://wallstreetcn.com/livenews/3029648",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗总统发声：伊朗正处于一场全面战争中",
+          "url": "https://news.ifeng.com/c/8pZJzBvxf8X",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
           "ranks": [
-            28
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "03时21分"
         }
       ]
     }
