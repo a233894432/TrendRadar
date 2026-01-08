@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-01-08T16:38:06.041179+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-01-09T03:24:45.542122+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 19,
       "titles": [
         {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
+          "title": "美国总统特朗普：古巴有麻烦。",
+          "url": "https://wallstreetcn.com/livenews/3033509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -26,217 +26,195 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
-        },
-        {
-          "title": "特朗普急退66个国际组织为哪般",
-          "url": "https://www.toutiao.com/trending/7592878921817787954/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普提出将美军费提至1.5万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "哥伦比亚总统与特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
-          "url": "https://flash.jin10.com/detail/20260108031010315800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
         },
         {
-          "title": "特朗普质疑北约在美国需要时会否给予支持",
-          "url": "https://wallstreetcn.com/livenews/3032651",
+          "title": "特朗普：支持推进“限制总统战争权”的共和党议员不应连任",
+          "url": "https://wallstreetcn.com/livenews/3033503",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
         },
         {
-          "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
-          "url": "https://flash.jin10.com/detail/20260108024142434800",
-          "source": "金十数据",
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
         },
         {
-          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
-          "url": "https://wallstreetcn.com/livenews/3032636",
+          "title": "美国总统特朗普：伊朗做得并不好。 如果伊朗暴乱份子死亡，将打击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3033502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
+          "url": "https://www.cls.cn/detail/2252295",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：古巴正陷入困境，岌岌可危。",
+          "url": "https://flash.jin10.com/detail/20260109024405848800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国财长贝森特：仍然有四名候选人有望接替美联储主席鲍威尔。 我们（贝森特+总统特朗普）还没有面试贝莱德分析师Rick Rieder。 特朗普可能会在前往达沃斯之前、或之后宣布决定。",
+          "url": "https://wallstreetcn.com/livenews/3033500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普声称，如果伊朗“杀害骚乱者”，将严厉打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260109023647944800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普 ：禁止囤房",
+          "url": "https://www.douyin.com/hot/2360816",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。 参议院下周将围绕这个议题投票。",
+          "url": "https://wallstreetcn.com/livenews/3033492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "谁是下任美联储主席？特朗普：心中已有决定",
+          "url": "https://wallstreetcn.com/livenews/3033489",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
         },
         {
-          "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
-          "url": "https://flash.jin10.com/detail/20260108023113755800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "美媒：特朗普吹嘘委内瑞拉行动 回避后续规划问题",
-          "url": "https://flash.jin10.com/detail/20260108155641568800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "特朗普推动禁止机构投资者购房",
-          "url": "https://wallstreetcn.com/livenews/3032633",
+          "title": "报道：特朗普政府考虑“收买”格陵兰岛居民",
+          "url": "https://wallstreetcn.com/livenews/3033488",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
+          "url": "https://wallstreetcn.com/livenews/3033482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普与国会联手推翻美国前总统拜登时代的明尼苏达州采矿禁令，助力安托法加斯塔(Antofagasta)的双金属项目。",
+          "url": "https://flash.jin10.com/detail/20260109022812663800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国财长贝森特：我认为美国总统特朗普将在一月份决定美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20260109022640060800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美参院推进限制特朗普对委动武决议",
+          "url": "https://wallstreetcn.com/livenews/3033478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -245,98 +223,70 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
-          "url": "https://news.ifeng.com/c/8pj8bQ0XmqB",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
-        },
-        {
-          "title": "怕清算?伊朗领袖携950亿开溜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
-        },
-        {
-          "title": "伊朗谴责以色列外长进入索马里兰",
-          "url": "https://flash.jin10.com/detail/20260108024648911800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
-          "url": "https://wallstreetcn.com/livenews/3032630",
+          "title": "美国财长贝森特：独立的石油公司希望进入委内瑞拉市场。 某些大型石油公司将发生重大转变。 对伊朗形势非常谨慎，经济岌岌可危。",
+          "url": "https://wallstreetcn.com/livenews/3033505",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
         },
         {
-          "title": "美国司法部长邦迪：今天，美国对“贝拉1号”（BELLA 1）油轮执行了扣押令。该油轮负责从委内瑞拉和伊朗运输受制裁的石油。",
-          "url": "https://flash.jin10.com/detail/20260108021617134800",
+          "title": "布伦特原油向上触及62美元/桶，日内涨2.38%。监控全球上网情况的国际非政府组织“网络区块”称，伊朗正在实施全国性网络管制，这与多地持续的抗议活动相关。",
+          "url": "https://flash.jin10.com/detail/20260109025042513800",
           "source": "金十数据",
           "ranks": [
-            27
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
+          "time_info": "03时24分"
+        },
         {
-          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
-          "url": "https://wallstreetcn.com/livenews/3032657",
+          "title": "伊朗实施网络管控，大范围断网",
+          "url": "https://wallstreetcn.com/livenews/3033493",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
         },
         {
-          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
-          "url": "https://flash.jin10.com/detail/20260108030510490800",
+          "title": "美国财长贝森特：伊朗正处于岌岌可危的时刻；经济已岌岌可危。",
+          "url": "https://flash.jin10.com/detail/20260109023247231800",
           "source": "金十数据",
           "ranks": [
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
+          "url": "https://www.zhihu.com/question/1992559906939696772",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗正发生全国范围的互联网断网。（NetBlocks）",
+          "url": "https://wallstreetcn.com/livenews/3033483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -345,26 +295,26 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        },
-        {
-          "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -373,49 +323,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
+          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
+          "url": "https://www.cls.cn/detail/2252328",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年度商品指数调仓周四启动 超百亿美元被动卖盘将冲击金银",
-          "url": "https://flash.jin10.com/detail/20260108162255143800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "03时24分"
         }
       ]
     }
