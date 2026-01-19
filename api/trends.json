@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T03:20:33.339873+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-19T16:40:33.843651+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
         {
           "title": "唐宁街：英国首相斯塔默与丹麦首相、欧盟委员会主席冯德莱恩、美国总统特朗普等国际领导人对话。 斯塔姆重申自己在格陵兰问题上的立场。 特朗普对北约盟友们发出关税威胁的做法是错误的。",
@@ -39,6 +39,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "杰富瑞：随着欧美展开谈判 特朗普或将推迟关税征收时间",
+          "url": "https://flash.jin10.com/detail/20260119161106127800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "法国财长Lescure：朋友之间勒索不可接受。 将在未来几天召集七国集团会议。 特朗普的言论代表着维度的转变。",
+          "url": "https://wallstreetcn.com/livenews/3039638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -94,6 +127,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "德国财长Klingbeil：欧洲不会因格陵兰岛问题被美国勒索。 欧洲在准备应对美国威胁的反制措施。 无意令贸易局势升级，也不寻求升级。 欧洲愿意与美国在贸易问题上折中。 欧洲应该研究如何利用现有工具。 由于特朗普的挑衅，已经触及了“红线”。",
+          "url": "https://wallstreetcn.com/livenews/3039634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "英镑兑美元报价跌0.3%，投资者关注美国总统特朗普（在吞并格陵兰方面）对欧洲多国发出的关税威胁。",
@@ -206,6 +261,28 @@
           "time_info": "03时20分"
         },
         {
+          "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
+          "url": "https://flash.jin10.com/detail/20260119155228340800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
           "url": "https://wallstreetcn.com/livenews/3039287",
           "source": "华尔街见闻-快讯",
@@ -250,6 +327,28 @@
           "time_info": "03时20分"
         },
         {
+          "title": "【外交部回应美方对欧洲八国加征关税】据新华社，美国总统特朗普17日在社交媒体上宣布，将从2月1日起对来自丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰的输美商品加征10%关税，并宣称加征关税的税率将从6月1日起提高至25%，直到相关方就美国“全面、彻底购买格陵兰岛”达成协议。对此，外交部发言人郭嘉昆19日在例行记者会上表示，中方已经多次阐明在格陵兰岛问题上的立场。以联合国宪章宗旨和原则为基础的国际法是现行国际秩序的基础，必须得到维护。",
+          "url": "https://wallstreetcn.com/livenews/3039608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "民调发现特朗普提升了中国全球影响力",
+          "url": "https://www.toutiao.com/trending/7596570077421191211/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "德国财政部长：德国不会屈服于特朗普的威胁",
           "url": "https://flash.jin10.com/detail/20260118211330324800",
           "source": "金十数据",
@@ -259,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据泰国《民族报》：泰国外交部周一表示，泰国已受邀加入特朗普的“和平委员会”，参与加沙和平计划。泰国正在研究相关细节。",
+          "url": "https://flash.jin10.com/detail/20260119154552660800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。 美联储拥有神奇的资金，为何不进行一些监管呢？ 或许市场希望从美联储获得一些政策透明度。 我们有四位出色的美联储主席候选人。 认为参议院会满意于这四位候选人的任何一位当选。 参议院银行委员会即将就美联储人选发表意见。 市场对司法部调查美联储事件未予过度关注。",
@@ -297,7 +407,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -320,6 +430,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊朗拟永久退网",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%9F%E6%B0%B8%E4%B9%85%E9%80%80%E7%BD%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260119154724623800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "世界周刊之伊朗危机",
@@ -363,6 +506,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -374,25 +545,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 16时40分]"
         }
       ]
     }
