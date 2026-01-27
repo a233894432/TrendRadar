@@ -1,299 +1,323 @@
 {
-  "generated_at": "2026-01-27T16:39:40.869504+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-01-28T03:31:42.995924+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
+          "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
+          "url": "https://flash.jin10.com/detail/20260128030726732800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
-          "url": "https://flash.jin10.com/detail/20260127025407678800",
+          "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260128030532843800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
-          "url": "https://wallstreetcn.com/livenews/3044152",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
-          "url": "https://flash.jin10.com/detail/20260127024854559800",
+          "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
+          "url": "https://flash.jin10.com/detail/20260128024954908800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3044149",
+          "title": "美国总统特朗普：美方准备支持叙利亚重建。",
+          "url": "https://wallstreetcn.com/livenews/3044943",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465454",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
-          "url": "https://flash.jin10.com/detail/20260127024457827800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
-          "url": "https://flash.jin10.com/detail/20260127023746619800",
-          "source": "金十数据",
+          "title": "特朗普疯狂驱赶“非法移民”之际，美国去年人口增幅创2021年以来最慢",
+          "url": "https://wallstreetcn.com/livenews/3044937",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
-          "url": "https://flash.jin10.com/detail/20260127023132184800",
+          "title": "特朗普称国土安全部部长诺姆不会辞职",
+          "url": "https://flash.jin10.com/detail/20260128021631396800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
-          "url": "https://flash.jin10.com/detail/20260127022628782800",
+          "title": "特朗普称国土安全部部长诺姆不会辞职",
+          "url": "https://wallstreetcn.com/livenews/3044932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3044930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
+          "url": "https://wallstreetcn.com/livenews/3044928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "以色列女子看电视发现自己死在伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%94%B5%E8%A7%86%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%AD%BB%E5%9C%A8%E4%BC%8A%E6%9C%97%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
+          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果伊朗攻击我们，我们将以它从未见过的力量进行反击。",
+          "url": "https://flash.jin10.com/detail/20260128024018421800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "以女子看电视发现自己“死”在伊朗",
+          "url": "https://www.toutiao.com/trending/7599286725097259071/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
+          "url": "https://flash.jin10.com/detail/20260128021217733800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
+          "url": "https://flash.jin10.com/detail/20260128021207935800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
-          "url": "https://wallstreetcn.com/livenews/3044147",
+          "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
+          "url": "https://wallstreetcn.com/livenews/3044925",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "特朗普对移民执法枪击事件态度大转变",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E6%80%81%E5%BA%A6%E5%A4%A7%E8%BD%AC%E5%8F%98",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "03时31分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
-          "url": "https://wallstreetcn.com/articles/3764129",
-          "source": "华尔街见闻",
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
+          "url": "https://flash.jin10.com/detail/20260128020246054800",
+          "source": "金十数据",
           "ranks": [
-            4
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "靛蓝航空：考虑到伊朗局势的发展，对部分航班的时刻表进行了调整。",
-          "url": "https://flash.jin10.com/detail/20260127162646197800",
-          "source": "金十数据",
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3044927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "黎巴嫩真主党：不会对针对伊朗的军事行动袖手旁观",
-          "url": "https://wallstreetcn.com/livenews/3044148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1999117900200551138",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美航母打击群抵达中东，美大规模军事集结引发伊朗“强硬警告”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465430",
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "黎巴嫩真主党：不会对针对伊朗的军事行动袖手旁观",
-          "url": "https://flash.jin10.com/detail/20260127020608251800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
           "url": "https://wallstreetcn.com/articles/3764111",
@@ -301,115 +325,37 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
-          "url": "https://wallstreetcn.com/livenews/3044129",
+          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3044921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时31分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价在5,000美元上方继续前进 “贬值交易”愈演愈烈",
-          "url": "https://wallstreetcn.com/livenews/3044599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
-          "url": "https://www.zhihu.com/question/1997009213193413444",
-          "source": "知乎",
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "03时31分"
         }
       ]
     }
