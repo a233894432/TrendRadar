@@ -1,27 +1,286 @@
 {
-  "generated_at": "2026-02-23T03:31:11.805328+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-23T16:57:24.262396+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
+      "keyword_group": "伊朗",
+      "match_count": 23,
       "titles": [
         {
-          "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
-          "url": "https://wallstreetcn.com/articles/3765942",
-          "source": "华尔街见闻",
+          "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
+          "url": "https://www.toutiao.com/trending/7608787946786996230/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时30分 ~ 03时31分]"
         },
         {
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
+        },
+        {
+          "title": "伊朗提议，让美国企业参与（伊朗的）能源行业。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "阿曼外长：美国与伊朗将于周四在日内瓦会谈。",
+          "url": "https://wallstreetcn.com/livenews/3057289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32641921",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
+        },
+        {
+          "title": "伊朗总统：绝不会向霸凌屈服",
+          "url": "https://www.toutiao.com/trending/7609473408021446665/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
+        },
+        {
+          "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32641336",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
+        },
+        {
+          "title": "美国可能于2月23日或24日对伊朗发动打击",
+          "url": "https://news.ifeng.com/c/8qyjFuaqHm4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "美媒：若伊朗很快提交核方案，美伊会谈预计将于周五举行",
+          "url": "https://flash.jin10.com/detail/20260222221813362800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
+          "url": "https://flash.jin10.com/detail/20260222220602460800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美官员：若伊朗尽快提交核协议草案 美伊会谈或将于27日举行",
+          "url": "https://wallstreetcn.com/livenews/3057276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
+          "url": "https://wallstreetcn.com/livenews/3057391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
+          "url": "https://flash.jin10.com/detail/20260223154344256800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗与国际原子能机构的所有合作将继续完全在伊朗保障监督义务和议会颁布的相关法律框架内进行。",
+          "url": "https://flash.jin10.com/detail/20260223154302036800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "伊朗：将誓死捍卫国家独立和主权完整",
+          "url": "https://www.toutiao.com/trending/7609028906888445958/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "印度“建议”其国民离开伊朗。",
+          "url": "https://flash.jin10.com/detail/20260223154237773800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "美军重兵合围伊朗",
+          "url": "https://www.douyin.com/hot/2409181",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "伊朗为何欲迅速落实伊俄全面战略合作",
+          "url": "https://www.toutiao.com/trending/7609922436754050606/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "机构分析：随着美国和伊朗面临开战，油价恐飙升到90-100美元",
+          "url": "https://flash.jin10.com/detail/20260223152537446800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://wallstreetcn.com/livenews/3057376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 18,
+      "titles": [
+        {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
           "url": "https://www.cls.cn/detail/2292405",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 16时57分]"
+        },
+        {
+          "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
+          "url": "https://wallstreetcn.com/articles/3765942",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -63,13 +322,46 @@
           "time_info": "[03时30分 ~ 03时31分]"
         },
         {
+          "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
+          "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
+          "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
           "url": "https://wallstreetcn.com/livenews/3057287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -81,8 +373,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 16时57分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -91,9 +383,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
@@ -102,7 +405,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -113,9 +416,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -124,7 +438,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -135,125 +449,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
-          "url": "https://www.toutiao.com/trending/7608787946786996230/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
-        },
-        {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
-        },
-        {
-          "title": "伊朗提议，让美国企业参与（伊朗的）能源行业。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3057292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
         {
-          "title": "阿曼外长：美国与伊朗将于周四在日内瓦会谈。",
-          "url": "https://wallstreetcn.com/livenews/3057289",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普被曝考虑对伊朗先小打再大打",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%85%88%E5%B0%8F%E6%89%93%E5%86%8D%E5%A4%A7%E6%89%93",
+          "source": "百度热搜",
           "ranks": [
-            3
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32641921",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
-        },
-        {
-          "title": "伊朗总统：绝不会向霸凌屈服",
-          "url": "https://www.toutiao.com/trending/7609473408021446665/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
-        },
-        {
-          "title": "伊朗总统：伊朗人民绝不会向霸凌屈服",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32641336",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
-        },
-        {
-          "title": "美媒：若伊朗很快提交核方案，美伊会谈预计将于周五举行",
-          "url": "https://flash.jin10.com/detail/20260222221813362800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
-          "url": "https://flash.jin10.com/detail/20260222220602460800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "美官员：若伊朗尽快提交核协议草案 美伊会谈或将于27日举行",
-          "url": "https://wallstreetcn.com/livenews/3057276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "16时57分"
         }
       ]
     },
@@ -266,11 +475,12 @@
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 16时57分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -294,11 +504,12 @@
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 16时57分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -339,11 +550,12 @@
           "url": "https://www.cls.cn/detail/2292521",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时30分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 16时57分]"
         }
       ]
     }
