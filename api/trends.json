@@ -1,248 +1,243 @@
 {
-  "generated_at": "2026-05-20T18:57:42.045403+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-05-21T05:01:36.397938+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 15,
+      "keyword_group": "美股",
+      "match_count": 11,
       "titles": [
         {
-          "title": "伊媒：伊朗格什姆岛传出爆炸声",
-          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
-          "source": "凤凰网",
+          "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/3106919",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗人民的热情激励使得官员的责任更加沉重。",
-          "url": "https://flash.jin10.com/detail/20260520184541548800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "05时01分"
         },
         {
-          "title": "伊朗在德黑兰逮捕一名与摩萨德有关联人员",
-          "url": "https://wallstreetcn.com/livenews/3106672",
-          "source": "华尔街见闻-快讯",
+          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "05时01分"
         },
         {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
+          "title": "英伟达(NVDA.O)美股盘后转涨，其第一财季营收及第二财季营收展望均超出平均预期。",
+          "url": "https://flash.jin10.com/detail/20260521042616685800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "小盘股指ETF收涨超2.5%，与新兴市场ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3106914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "05时01分"
         },
         {
-          "title": "伊朗外交部：外长阿拉格齐是否参加5月26日安理会会议尚未最终决定。",
-          "url": "https://flash.jin10.com/detail/20260520184245082800",
+          "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
+          "url": "https://wallstreetcn.com/livenews/3106910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "英伟达(NVDA.O)财报公布后，美股盘后跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260521042254934800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "巴基斯坦内政部长再次访问伊朗",
-          "url": "https://wallstreetcn.com/livenews/3106666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
-          "url": "https://wallstreetcn.com/livenews/3106242",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时01分"
         },
         {
-          "title": "欧洲央行管委科赫尔：如果伊朗战争局面没有改善，预计将在6月加息。",
-          "url": "https://flash.jin10.com/detail/20260520041238784800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们创造了伊朗民族在面对两个全球恐怖主义军队时所展现的抵抗史诗。",
-          "url": "https://flash.jin10.com/detail/20260520183259805800",
+          "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260521040629314800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "05时01分"
         },
         {
-          "title": "巴基斯坦内政部长将前往伊朗举行会谈。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3106649",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260521040610507800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "美媒：美军在印度洋扣押一艘伊朗相关油轮",
-          "url": "https://flash.jin10.com/detail/20260520040732136800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时01分"
         },
         {
-          "title": "欧洲央行官员Wunsch：如果伊朗冲突不结束 6月央行加息的可能性很大",
-          "url": "https://wallstreetcn.com/livenews/3106663",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大股指涨超1% 特斯拉涨3%",
+          "url": "https://flash.jin10.com/detail/20260521040127045800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时57分"
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗设立霍尔木兹海峡受控航行区，船舶通行需获许可",
+          "url": "https://wallstreetcn.com/livenews/3106918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
+          "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国财长贝森特：与卡塔尔财长于法国巴黎讨论伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3106897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”在社交媒体上公布了霍尔木兹海峡的受控海域。",
+          "url": "https://flash.jin10.com/detail/20260521035746749800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260521033600584800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3106888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
+          "url": "https://wallstreetcn.com/livenews/3106886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
+          "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
           "url": "https://news.ifeng.com/c/8tHSbfpek1w",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
-          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "赖清德暗怼特朗普后心虚了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "为何特朗普抛涉台“四不”说法",
-          "url": "https://www.toutiao.com/trending/7640681040356671526/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
+          "time_info": "05时01分"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -251,241 +246,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
-          "url": "https://flash.jin10.com/detail/20260520042923533800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时01分"
         },
         {
-          "title": "科学家弃用最糟气候情景预测，引发特朗普发文嘲讽",
-          "url": "https://wallstreetcn.com/livenews/3106241",
+          "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
+          "url": "https://wallstreetcn.com/livenews/3106894",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "据美国财经媒体Semafor：特朗普放弃要求银行收集公民身份信息的计划。",
-          "url": "https://flash.jin10.com/detail/20260520042843664800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "特朗普说希望「非常迅速」地结束伊朗战事，伊朗不会有核武器，美国中期选举趋近，局势真如他说的这样乐观吗？",
-          "url": "https://www.zhihu.com/question/2040363774234846058",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "孩之宝第二财季调整后每股收益1.47美元，预期为1.25美元。 第二财季调整后息税折旧摊销前利润为3.394亿美元，预期为3.139亿美元。 孩之宝仍预计全年调整后息税折旧摊销前利润为14.0亿至14.5亿美元，市场预期为14.4亿美元。 孩之宝美股盘前微跌。",
-          "url": "https://wallstreetcn.com/livenews/3106677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
-          "url": "https://wallstreetcn.com/livenews/3106248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "周二（5月19日），美股行业ETF多数收跌，航空业ETF收跌2.90%，金融业ETF、网络股指数ETF、可选消费ETF跌1.11%，半导体ETF跌0.4%，医疗业ETF涨1.1%，能源业ETF涨1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3106247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3106240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260520040952291800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260520040951743800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 高通跌近4%",
-          "url": "https://flash.jin10.com/detail/20260520040118773800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://wallstreetcn.com/livenews/3106251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.7%，原材料板块跌2.3%，电信、可选消费、金融板块至多跌1.7%，科技板块跌0.9%，能源板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Doordash初步收跌4.9%，高通、思科、AppLovin、派拓网络PANW、汤森路透、博通、谷歌A、铿腾电子至多跌3.5%，拼多多涨2.5%，闪迪涨3.4%，Arm控股涨3.8%，迈威尔科技涨4%。 思科初步收跌3%，波音、3M、亚马逊跌超2%，领跌道指成分股，雪佛龙涨1.5%。 半导体指数跌0.1%，银行指数跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3106235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "谷歌I/O大会要点总结",
-          "url": "https://wallstreetcn.com/livenews/3106229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时01分"
         }
       ]
     },
@@ -494,65 +268,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
-          "url": "https://wallstreetcn.com/articles/3772605",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
-        },
-        {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://www.cls.cn/detail/2375756",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
-          "title": "DeepSeek最新回应",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "美债收益率至少跌超7个基点，美股盘初显著走低",
+          "url": "https://wallstreetcn.com/livenews/3106899",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 04时47分]"
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
+          "url": "https://wallstreetcn.com/livenews/3106887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -561,43 +307,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "彭博美元指数涨超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3106228",
+          "title": "美元指数跌超0.2%",
+          "url": "https://wallstreetcn.com/livenews/3106896",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时01分"
         },
         {
-          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3106221",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数20日下跌",
+          "url": "https://flash.jin10.com/detail/20260521035335949800",
+          "source": "金十数据",
           "ranks": [
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时01分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
           "ranks": [
-            18
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     }
