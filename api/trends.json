@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T05:01:36.973256+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-05T19:32:36.801847+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -102,7 +113,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -124,7 +135,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -135,9 +146,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
@@ -146,7 +168,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -157,7 +179,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -168,7 +190,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -179,7 +201,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -190,7 +212,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -201,7 +223,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -212,7 +234,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -223,7 +245,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -234,7 +256,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -245,7 +267,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -256,7 +278,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -267,7 +289,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -278,7 +300,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -289,9 +311,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "俄外长说拜登战争已变为特朗普战争",
+          "url": "https://wallstreetcn.com/livenews/3115044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -317,7 +350,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -350,35 +383,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
-        },
-        {
-          "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3114609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -386,7 +391,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗“圣城旅”喊话以色列",
@@ -400,15 +405,132 @@
           "time_info": "[05时00分 ~ 05时01分]"
         },
         {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "伊朗最高领袖顾问称忍让到此为止",
+          "url": "https://wallstreetcn.com/livenews/3115075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "美国印太司令部：油轮“达维娜”号（MT Davina）与伊朗有关。",
+          "url": "https://flash.jin10.com/detail/20260605192142947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "伊朗外长：地区国家不应让美国利用其领土攻击伊朗",
           "url": "https://wallstreetcn.com/livenews/3114602",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 05时01分]"
+        },
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3114609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本或通过抛售了美债 为创纪录规模的日元汇市干预筹资",
+          "url": "https://wallstreetcn.com/livenews/3115065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -423,7 +545,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
